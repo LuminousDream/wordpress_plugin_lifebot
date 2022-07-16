@@ -6,8 +6,6 @@
 * Version: 2022-v1
 * Author URI: https://darkace.xyz
 * Github:https://github.com/luminousdream
-* License: MIT
-* License URI: https://mit-license.org
 **/
 
 // * tip:仅供于家人或朋友之间的情感传递，不具有财产遗嘱等效力。 *
