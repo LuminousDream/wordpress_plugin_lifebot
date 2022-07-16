@@ -240,7 +240,7 @@ function calc_after_day($timepart) //计算距离多少天
 	return($result);
 }
 
-function endline() //发送确认邮件后15天仍未更新文章则自动发送告别文章
+function endline() //发送告别文章
 {
 	$DOCUMENT_ROOT = $_SERVER['DOCUMENT_ROOT'];
 	$content='这个人什么都没说，就跌落于凡尘，愿天堂能够守护你的平安，阿门！';
@@ -326,6 +326,8 @@ function lifebot_average() {
 		fclose($fp);
 		chmod("$DOCUMENT_ROOT/lifebot.config",0755); //设置文件权限避免无法读取配置
 	}
+
+        //时间段内并度过宽限期后15天仍未更新文章则自动发送告别文章
 }
 
 //EOF
