@@ -82,7 +82,7 @@ function lifebot_menu() {
 	  宽限时间：'.get_end_day($timepart).' [在给你发送邮件后15天的期限，如果您登录了你的blog，时间将重新计算并退出宽限] </br>
 	  告别时间：'.date("Y-m-d",strtotime(get_end_day($timepart)." + 15 day")).' [在给你发送邮件后超过15天，则自动发送告别文章]</br>
 	  状态：'.get_status($timepart).'</br>
-	</div>
+	</div> <!-- 通过判断状态在后台显示指定消息，这里可以自定义 -->
 	'; if(get_status($timepart) == "宽限"){ echo "<font color='pink'>你来啦，小可爱，你怎么啦，别不开心嘛，来分享你的快乐时刻。</font>";} echo'
     <div class="settitle">
 	告别文章标题：<input type="textbox" name="byetitle" value="'.readconfig()[0].'" />
