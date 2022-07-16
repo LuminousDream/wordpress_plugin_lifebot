@@ -2,10 +2,12 @@
 /**
 * Plugin Name: 生命规划局 (WordPress版)
 * Description: 在你跌落凡尘之时为您自动发送告别文章，在你自己的blog上。
-* Author: 暗梦先生呀~
+* Author: 暗梦先生呀~ (LuminousDream)
 * Version: 2022-v1
 * Author URI: https://darkace.xyz
 * Github:https://github.com/luminousdream
+* License: MIT
+* License URI: https://mit-license.org
 **/
 
 // * tip:仅供于家人或朋友之间的情感传递，不具有财产遗嘱等效力。 *
