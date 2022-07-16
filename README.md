@@ -8,6 +8,3 @@
 然后呢，会给予你15天的宽限期，再过15天后仍未更新文章的话...
 
 您提前设定好的告别文章会自动发布到您的blog上。
-
-# License
-MIT Copyright (c) 2022 LuminousDream
