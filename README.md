@@ -7,4 +7,4 @@
 您提前设定好的告别文章会自动发布到您的blog上。
 
 # License
-Copyright (c) 2022 LuminousDream
+MIT Copyright (c) 2022 LuminousDream
