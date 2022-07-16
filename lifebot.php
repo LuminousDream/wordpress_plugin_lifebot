@@ -326,7 +326,8 @@ function lifebot_average() {
 		fclose($fp);
 		chmod("$DOCUMENT_ROOT/lifebot.config",0755); //设置文件权限避免无法读取配置
 	}
-    
+
+        $timepart = readconfig()[1];
         if(get_status($timepart) == "已逝"){endline();}
         //获取状态判断时间段内并度过宽限期后15天仍未更新文章则自动发送告别文章
 }
