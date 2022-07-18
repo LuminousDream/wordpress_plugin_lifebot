@@ -1,5 +1,6 @@
 [![](https://img.shields.io/badge/Lifebot-README-brightgreen)](https://github.com/LuminousDream/wordpress_plugin_lifebot)
-[![](https://img.shields.io/badge/Author:LuminousDream-pink)]()
+[![](https://img.shields.io/badge/Author:-LuminousDream-pink)]
+[![](https://img.shields.io/badge/wordpress-blue)](https://wordpress.org)
 
 # 生命规划局 · 告别文章自动发布 (WordPress版)
 在你跌落凡尘之时，为您自动发送告别的那一刻[告别文章] ，在你自己的blog上，
