@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/ChineseBQB-READEME-brightgreen)](https://github.com/zhaoolee/ChineseBQB)
+[![](https://img.shields.io/badge/Lifebot-README-brightgreen)](https://github.com/zhaoolee/ChineseBQB)
 
 # 生命规划局 · 告别文章自动发布 (WordPress版)
 在你跌落凡尘之时，为您自动发送告别的那一刻[告别文章] ，在你自己的blog上，
